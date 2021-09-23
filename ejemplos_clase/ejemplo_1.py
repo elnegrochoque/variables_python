@@ -21,8 +21,8 @@ print('El resultado de restar', numero_1, 'y', numero_2, 'es', resta)
 # print('El valor de numero es',numero)
 
 # Ahora realizaremos ejemplos con números reales
-numero_3 = 3.0
-numero_4 = 4.5
+numero_3 = 8
+numero_4 = 9
 
 suma = numero_3 + numero_4  # Operamos la suma
 # Imprimimos en consola el resultado
