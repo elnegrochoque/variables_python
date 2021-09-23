@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tipos de variables [Python]
 # Ejercicios de práctica
 
@@ -28,3 +29,4 @@ palabra_2_acronimo=palabra_2[0]
 palabra_3_acronimos=palabra_3[0]
 
 print(palabra_1_acronimo+palabra_2_acronimo+palabra_3_acronimos)
+
